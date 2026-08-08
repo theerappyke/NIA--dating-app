@@ -1,0 +1,122 @@
+[
+  {
+    "id": "2e005090-6b17-4157-a605-7a4f428b131b",
+    "phone": "254712000001",
+    "password": "9babf32a1ab37ced92db2b3fda36cd4260af6f358bbaf9ca7a9c81096e4ab2a4",
+    "name": "Amina Wanjiku",
+    "age": 26,
+    "gender": "Female",
+    "lookingFor": "Male",
+    "location": "Nairobi",
+    "tribe": "Kikuyu",
+    "bio": "Love hiking Ngong Hills, chai and good conversations. Looking for someone genuine 😊",
+    "interests": [
+      "Travel",
+      "Music",
+      "Hiking",
+      "Cooking"
+    ],
+    "photos": [],
+    "createdAt": "2026-08-07T15:13:36.045Z"
+  },
+  {
+    "id": "8187f50a-738e-4478-a2f8-a8b73e76db8b",
+    "phone": "254712000002",
+    "password": "9babf32a1ab37ced92db2b3fda36cd4260af6f358bbaf9ca7a9c81096e4ab2a4",
+    "name": "Brian Otieno",
+    "age": 29,
+    "gender": "Male",
+    "lookingFor": "Female",
+    "location": "Kisumu",
+    "tribe": "Luo",
+    "bio": "Software engineer by day, football lover by weekend. Let’s explore Kenya together!",
+    "interests": [
+      "Tech",
+      "Football",
+      "Travel",
+      "Photography"
+    ],
+    "photos": [],
+    "createdAt": "2026-08-07T15:13:36.068Z"
+  },
+  {
+    "id": "491a7c6f-ff09-4b4c-a6aa-40d1f2c970b1",
+    "phone": "254712000003",
+    "password": "9babf32a1ab37ced92db2b3fda36cd4260af6f358bbaf9ca7a9c81096e4ab2a4",
+    "name": "Faith Chebet",
+    "age": 24,
+    "gender": "Female",
+    "lookingFor": "Male",
+    "location": "Eldoret",
+    "tribe": "Kalenjin",
+    "bio": "Athlete & student. I value honesty, family and late-night talks under the stars.",
+    "interests": [
+      "Running",
+      "Reading",
+      "Music",
+      "Nature"
+    ],
+    "photos": [],
+    "createdAt": "2026-08-07T15:13:36.068Z"
+  },
+  {
+    "id": "d7b79aa5-c7e5-405d-983c-c3b2e4f2dafa",
+    "phone": "254712000004",
+    "password": "9babf32a1ab37ced92db2b3fda36cd4260af6f358bbaf9ca7a9c81096e4ab2a4",
+    "name": "David Mwangi",
+    "age": 31,
+    "gender": "Male",
+    "lookingFor": "Female",
+    "location": "Nairobi",
+    "tribe": "Kikuyu",
+    "bio": "Entrepreneur. Coffee addict. Looking for my partner in crime and adventures.",
+    "interests": [
+      "Business",
+      "Coffee",
+      "Travel",
+      "Gym"
+    ],
+    "photos": [],
+    "createdAt": "2026-08-07T15:13:36.068Z"
+  },
+  {
+    "id": "912749c0-7e2d-4ecc-8dd8-0e06cf810a89",
+    "phone": "254712000005",
+    "password": "9babf32a1ab37ced92db2b3fda36cd4260af6f358bbaf9ca7a9c81096e4ab2a4",
+    "name": "Grace Achieng",
+    "age": 27,
+    "gender": "Female",
+    "lookingFor": "Male",
+    "location": "Mombasa",
+    "tribe": "Luo",
+    "bio": "Beach lover 🌊. I speak English, Swahili & a bit of Luo. Let’s make memories.",
+    "interests": [
+      "Beach",
+      "Dancing",
+      "Food",
+      "Movies"
+    ],
+    "photos": [],
+    "createdAt": "2026-08-07T15:13:36.068Z"
+  },
+  {
+    "id": "1ad5927d-0a90-42e0-b608-d1fa2e5afa0f",
+    "phone": "254712000006",
+    "password": "9babf32a1ab37ced92db2b3fda36cd4260af6f358bbaf9ca7a9c81096e4ab2a4",
+    "name": "Kevin Kiprop",
+    "age": 28,
+    "gender": "Male",
+    "lookingFor": "Female",
+    "location": "Nakuru",
+    "tribe": "Kalenjin",
+    "bio": "Quiet but deep. Love nature, good food and meaningful connections.",
+    "interests": [
+      "Nature",
+      "Cooking",
+      "Reading",
+      "Cycling"
+    ],
+    "photos": [],
+    "createdAt": "2026-08-07T15:13:36.068Z"
+  }
+]

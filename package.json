@@ -1,0 +1,10 @@
+{
+  "name": "kenya-dating-app",
+  "version": "1.0.0",
+  "description": "Nia - Kenyan Dating App MVP (Web)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
